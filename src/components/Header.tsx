@@ -42,7 +42,7 @@ const Header: React.FC<HeaderProps> = ({
           <div className="relative w-12 h-12 md:w-16 md:h-16">
             {
               <img
-                src="src/components/img/logo.jpg"
+                src="static//img/logo.jpg"
                 alt="AstroDak Logo"
                 className="flex items-center justify-center h-full w-full rounded-full bg-primary text-white font-bold text-lg"
               />

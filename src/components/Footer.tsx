@@ -161,28 +161,28 @@ const Footer: React.FC = () => {
           <div className="flex flex-wrap justify-center items-center gap-3 md:gap-5 lg:gap-8">
             <div className="certification-logo flex-1 min-w-[90px] max-w-[160px] p-1.5">
               <img
-                src="src/components/img/VCA.jpeg"
+                src="static//img/VCA.jpeg"
                 alt="VCA Certification"
                 className="w-full h-auto max-h-16 md:max-h-20 lg:max-h-24 object-contain grayscale hover:grayscale-0 transition-all duration-200 hover:scale-105"
               />
             </div>
             <div className="certification-logo flex-1 min-w-[90px] max-w-[160px] p-1.5">
               <img
-                src="src/components/img/gecertificeerde-dakdekker2.png"
+                src="static//img/gecertificeerde-dakdekker2.png"
                 alt="Certified Roofer"
                 className="w-full h-auto max-h-16 md:max-h-20 lg:max-h-24 object-contain grayscale hover:grayscale-0 transition-all duration-200 hover:scale-105"
               />
             </div>
             <div className="certification-logo flex-1 min-w-[90px] max-w-[160px] p-1.5">
               <img
-                src="src/components/img/google-reviews.png"
+                src="static//img/google-reviews.png"
                 alt="Google Reviews"
                 className="w-full h-auto max-h-16 md:max-h-20 lg:max-h-24 object-contain grayscale hover:grayscale-0 transition-all duration-200 hover:scale-105"
               />
             </div>
             <div className="certification-logo flex-1 min-w-[90px] max-w-[160px] p-1.5">
               <img
-                src="src/components/img/pinnen-ja-graag.png"
+                src="static//img/pinnen-ja-graag.png"
                 alt="Payment Accepted"
                 className="w-full h-auto max-h-16 md:max-h-20 lg:max-h-24 object-contain grayscale hover:grayscale-0 transition-all duration-200 hover:scale-105"
               />
