@@ -45,7 +45,7 @@ const About: React.FC = () => {
           >
             <div className="relative aspect-square md:aspect-video lg:aspect-[4/3] rounded-xl shadow-lg overflow-hidden">
               <img
-                src="src/components/img/Platdak.jpg"
+                src="project/components/img/Platdak.jpg"
                 alt="Roofing work"
                 className="w-full h-full object-cover"
               />
