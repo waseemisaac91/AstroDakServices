@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
   // Service area cities
   const cities = [
     "Breda",
-    "'s-Hertogenbosch",
+    "'Denbosch",
     "Eindhoven",
     "Nijmegen",
     "Oss",
