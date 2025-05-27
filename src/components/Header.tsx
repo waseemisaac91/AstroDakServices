@@ -50,9 +50,9 @@ const Header: React.FC<HeaderProps> = ({
           </div>
           <div className="ml-3">
             <h1 className="text-lg md:text-xl font-bold text-primary">
-              AstroDak
+              AstroDak Services
             </h1>
-            <p className="text-xs text-secondary">Service</p>
+         
           </div>
         </a>
 
